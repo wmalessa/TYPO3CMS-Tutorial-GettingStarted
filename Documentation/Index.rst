@@ -12,4 +12,4 @@ Therefore please consult the latest version for now.
 
 .. rst-class:: horizbuttons-tip-xxl
 
-- `For 7.6: Go to the latest version <..>`__
+- `For 8.7: Go to the latest version <..>`__
